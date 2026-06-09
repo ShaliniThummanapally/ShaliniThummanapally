@@ -21,24 +21,24 @@
 
 Here are the key projects showing my architecture, testing, and clean code standards:
 
-* **[springboot-jpa-showcase](https://github.com/https://github.com/ShaliniThummanapally/springboot-jpa-showcase)**
+* **[springboot-jpa-showcase](https://github.com/ShaliniThummanapally/springboot-jpa-showcase)**
   * *Tech stack:* Java 17, Spring Boot 3.x, Spring Data JPA, H2 Database, Maven, Junit 5.
   * *Key Demo:* Inventory Management API. Features global REST exceptions, custom validations, Mockito testing, and Swagger API docs.
 
-* **[python-fastapi-showcase](https://github.com/https://github.com/ShaliniThummanapally/python-fastapi-showcase)**
+* **[python-fastapi-showcase](https://github.com/ShaliniThummanapally/python-fastapi-showcase)**
   * *Tech stack:* Python, FastAPI, SQLite, SQLAlchemy, pytest, Docker.
   * *Key Demo:* Task & Notification REST API. Demonstrates async controllers, Docker integration, pytest-mocking, and GitHub Actions CI pipelines.
 
-* **[java-core-showcase](https://github.com/https://github.com/ShaliniThummanapally/java-core-showcase)**
+* **[java-core-showcase](https://github.com/ShaliniThummanapally/java-core-showcase)**
   * *Tech stack:* Core Java 17, Maven, JUnit 5.
   * *Key Demo:* Library Booking Simulator. Pure OOD design showcasing Strategy, Builder, and Factory design patterns alongside strict SOLID principles.
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/ShaliniThummanapally&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/ShaliniThummanapally&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ShaliniThummanapally&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaliniThummanapally&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaliniThummanapally&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniThummanapally&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ### 📬 Connect with Me
