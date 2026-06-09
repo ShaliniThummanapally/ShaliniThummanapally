@@ -41,6 +41,13 @@ Here are the key projects showing my architecture, testing, and clean code stand
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaliniThummanapally&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShaliniThummanapally&theme=onedark" alt="github profile trophy" />
+  </a>
+</p>
+
 ### 📬 Connect with Me
 
 * **Email:** [shalinithummanapally@gmail.com](mailto:shalinithummanapally@gmail.com)
